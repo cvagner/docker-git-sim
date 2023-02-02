@@ -2,6 +2,9 @@
 
 [`git-sim`](https://github.com/initialcommit-com/git-sim) visually simulates Git operations in your own repos.
 
+Links:
+* sources are published on [GitHub](https://github.com/cvagner/docker-git-sim)
+* images are deployed in [DockerHub](https://hub.docker.com/r/cvagner/git-sim)
 
 ## Running
 
